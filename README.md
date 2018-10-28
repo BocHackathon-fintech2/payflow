@@ -2,6 +2,10 @@
 
 [Visit our website](http://www.andreasglordos.wixsite.com/payflow)
 
+For judges: you can test our app. Send "Hello" to 99795260 and follow the instructions to register. For the boc credentials, use username: 999999 and password: "112233" (without quotes). After registering, you can generate a code to receive money by sending "I want my friend to send me 20 euros." or anything similar. Give that code to the friend who owes you 20 euros, and tell them to send it to  99795260 after they also complete the registration process. (note: Registration is a one-time process). 
+
+Judges: To find our code in regards to the response server, go to PayFlow/application/views.py
+
 Forget ATMs. You can now conduct any payment, to anyone, from anywhere at any time using PayFlow.
 
 PayFlow uses SMS to transfer funds from your accounts to the accounts of merchants, family or friends. It's easy to use, easy to set up and will make your life much easier.
